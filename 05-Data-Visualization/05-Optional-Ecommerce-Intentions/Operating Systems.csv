@@ -1,0 +1,10 @@
+Region table,
+id,name
+1,Windows
+2,Android
+3,iOS
+4,OS X
+5,Unknown
+6,Linux
+7,Chrome OS
+8,Other
